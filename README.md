@@ -30,10 +30,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PheonixShell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PheonixShell&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WolfArkane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WolfArkane&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PheonixShell&show_icons=true&locale=en&layout=compact&theme=algolia" alt="PheonixShell" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WolfArkane&show_icons=true&locale=en&layout=compact&theme=algolia" alt="WolfArkane" height="192px"/>
   <br/>
   </p>
 </details>
@@ -42,7 +42,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/PheonixShell"><img alt="PheonixShell's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PheonixShell&custom_title=PheonixShell's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/WolfArkane"><img alt="WolfArkane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WolfArkane&custom_title=WolfArkane's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
